@@ -1,0 +1,4 @@
+humidity = 0.2
+time = 3
+constant = 4
+solar = .4
